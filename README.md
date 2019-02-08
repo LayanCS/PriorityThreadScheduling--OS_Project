@@ -14,3 +14,6 @@ Similarly, the time a train takes it in the common line is decided based on the 
 <b>Priority Thread Scheduler Class:</b> the threads are scheduled according to priority using Comparator and PriorityBlockingQueue.
 
 * And a text file to test!
+** There are definetly some room for improvment.
+* By: Layan, Nada, Rahaf, and Sara
+<b> don't copy the project as your own! </b>
